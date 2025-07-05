@@ -4,7 +4,7 @@
 
 **"Por onde eu começo? O que um dev profissional faz no dia a dia? Será que as empresas realmente usam React/Node/Python ou é só hype? Como descobrir se estou estudando as tecnologias certas?"**
 
-Se você já se fez essas perguntas, você não está sozinho. A diferença entre devs iniciantes e seniores não é só código - é **saber investigar**. Enquanto iniciantes ficam perdidos entre tutoriais, profissionais sabem **exatamente** onde olhar para descobrir:
+Se você já se fez essas perguntas, você não está sozinho pequeno colibrí. A diferença entre devs iniciantes e seniores não é só código - é **saber investigar**. Enquanto iniciantes ficam perdidos entre tutoriais, profissionais sabem **exatamente** onde olhar para descobrir:
 
    **Que tecnologias as empresas realmente usam**  
    **Como estruturam seus projetos na vida real**  
@@ -53,7 +53,7 @@ Este toolkit vai te dar **visão de raio-x** do mundo tech. Você vai parar de a
 
 **O GitHub não é só um repositório - é literalmente TODO o conhecimento técnico de qualidade do mundo em um só lugar.**
 
-Pense nisso: React (Facebook), Vue (Evan You), TypeScript (Microsoft), Linux (Linus Torvalds), Kubernetes (Google) - **todos open source**. As maiores empresas do mundo abriram seus segredos porque descobriram algo revolucionário:
+React (Facebook), Vue (Evan You), TypeScript (Microsoft), Linux (Linus Torvalds), Kubernetes (Google) - **todos open source**. As maiores empresas do mundo abriram seus segredos porque descobriram algo revolucionário:
 
 **Open Source = Selo de Qualidade Automático**
 
@@ -69,7 +69,7 @@ Quando você disponibiliza código publicamente, acontece uma coisa mágica:
 
 ---
 
-## ⚡ Performance & Práticas
+## Performance & Práticas
 
 ### Ferramentas Principais
 - **[WebPageTest](https://www.webpagetest.org/)** - Como os sites são otimizados
@@ -155,7 +155,7 @@ Quando você disponibiliza código publicamente, acontece uma coisa mágica:
 ## Da Dúvida ao Conhecimento: Metodologia Prática
 
 ### 1. **Mapeamento** - "O que eles realmente usam?"
-Use Wappalyzer/BuiltWith nos sites das empresas que você admira. Netflix, Spotify, Nubank - descubra a stack real, não a do tutorial.
+Use Wappalyzer/BuiltWith nos sites das empresas que você admira. Netflix, Spotify, Nubank etc
 
 ### 2. **Validação** - "Isso é tendência ou é modinha?"
 Confirme no npm trends e State of JS. Se a tecnologia cresce há 2+ anos e grandes empresas usam, vale a pena estudar.
