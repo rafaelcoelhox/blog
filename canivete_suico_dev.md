@@ -13,7 +13,7 @@ Se você já se fez essas perguntas, você não está sozinho. A diferença entr
 
 Este toolkit vai te dar **visão de raio-x** do mundo tech. Você vai parar de adivinhar e começar a **investigar como um profissional**.
 
-## 🔍 Análise de Tecnologias & Stack
+##  Análise de Tecnologias & Stack
 
 - **[Wappalyzer](https://www.wappalyzer.com/)** - Detecta tecnologias usadas em qualquer site
 - **[BuiltWith](https://builtwith.com/)** - Análise profunda de tecnologias web
@@ -31,7 +31,7 @@ Este toolkit vai te dar **visão de raio-x** do mundo tech. Você vai parar de a
 
 **O GitHub não é só um repositório - é literalmente TODO o conhecimento técnico de qualidade do mundo em um só lugar.**
 
-Pense nisso: React (Facebook), Vue (Evan You), TypeScript (Microsoft), Linux (Linus Torvalds), Kubernetes (Google) - **todos open source**. As maiores empresas do mundo abrem seus segredos porque descobriram uma parada:
+React (Facebook), Vue (Evan You), TypeScript (Microsoft), Linux (Linus Torvalds), Kubernetes (Google) - **todos open source**. As maiores empresas do mundo abrem seus segredos porque descobriram uma parada:
 
 **Open Source = Selo de Qualidade Automático**
 
